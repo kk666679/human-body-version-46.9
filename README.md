@@ -8,7 +8,7 @@
 
 | **Build** | **Health** | **Status** | **Dependencies** |
 | :--- | :--- | :--- | :--- |
-| [![Build Status](https://img.shields.io/badge/build-🔥_SMOKING_HOT-orange)](https://github.com/you/human-body/releases/tag/v5.0.0-rc2) | [![Mental Sanity](https://img.shields.io/badge/sanity-carefully__tended-green)](https://example.com) | [![Age](https://img.shields.io/badge/age-46.9-blue)](https://example.com) | [![Coffee Required](https://img.shields.io/badge/dependencies-coffee%20☕%20%2B%20whisky-important)](https://example.com) |
+| [![Build Status](https://img.shields.io/badge/build-🔥_SMOKING_HOT-orange)](https://github.com/you/human-body/releases/tag/v5.0.0-rc2) | [![Mental Sanity](https://img.shields.io/badge/sanity-carefully__tended-green)](https://example.com) | [![Age](https://img.shields.io/badge/age-46.9-blue)](https://example.com) | [![Coffee Required](https://img.shields.io/badge/dependencies-coffee%20☕%20%2B%20skyjuice-important)](https://example.com) |
 
 **🏷️ Tags:** `#vintage #sexy #experienced #knows-how-to-use-it #requires-maintenance` `#stable-build` `#peaceful-mind`
 
@@ -60,7 +60,7 @@
 ## ⚠️ Warning
 
 **This model does not wake up pretty. It wakes up *confident*.** ☀️😎
-- **Boot Sequence:** Requires coffee (`☕`) for initial boot. Responsive to compliments (`💐`) and whisky (`🥃`).
+- **Boot Sequence:** Requires coffee (`☕`) for initial boot. Responsive to compliments (`💐`) and skyjuice (`🥃`).
 - **Maintenance:** Regular doses of quiet time and laughter required. 🔧
 
 ---
